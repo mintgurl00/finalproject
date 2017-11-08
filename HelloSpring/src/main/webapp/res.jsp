@@ -9,7 +9,7 @@
 <body>
 id : ${id}<br>
 pw : ${pw}<br><br>
-
+test
 id : <%=request.getAttribute("id") %><br>
 pw : <%=request.getAttribute("pw") %><br>
 </body>
