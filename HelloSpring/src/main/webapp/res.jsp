@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta http-eqiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Insert title here</title>
 </head>
 <body>
@@ -13,4 +13,4 @@ pw : ${pw}<br><br>
 id : <%=request.getAttribute("id") %><br>
 pw : <%=request.getAttribute("pw") %><br>
 </body>
-</html> <!-- 뀨 -->
+</html>
