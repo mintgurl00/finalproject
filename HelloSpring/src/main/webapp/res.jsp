@@ -13,4 +13,4 @@ pw : ${pw}<br><br>
 id : <%=request.getAttribute("id") %><br>
 pw : <%=request.getAttribute("pw") %><br>
 </body>
-</html>
+</html> <!-- 뀨 -->
