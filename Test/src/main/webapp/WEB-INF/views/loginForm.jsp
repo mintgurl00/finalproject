@@ -23,6 +23,7 @@
 	<tr>
 		<td align = center colspan = 2><input type = "submit" value = "로그인" /> </td>
 	</tr>
+	테스트
 	
 </table>
 </form>
